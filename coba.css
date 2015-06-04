@@ -1,0 +1,139 @@
+.coklat{ 
+  Width:1100px;
+  Height:530px;
+  padding-left:30px;
+  padding-top:50px;
+  Background: #FFFFCC;
+}
+.style{
+		padding-top: 10em;
+		padding-bottom: 2em;
+		background: url(flowers.jpg) no-repeat center top;
+		background-size: cover;
+		background-attachment: fixed;
+		-webkit-backface-visibility: hidden;
+		-webkit-transform: translateZ(0);
+		width: 1200px;
+		height: 1270px;
+	}
+.pink{ 
+  Width:366px;
+  Height:320px;
+  padding-left:20px;
+  padding-top:10px;
+  padding-right:10px;
+  Background: #FFCCFF;
+}
+
+.tosca{ 
+  Width:366px;
+  Height:320px;
+  padding-left:20px;
+  padding-top:10px;
+  padding-right:10px;
+  Background: #CCFFFF;
+}
+
+.kuning{ 
+  Width:366px;
+  Height:320px;
+  padding-left:20px;
+  padding-top:100px;
+  padding-right:20px;
+  Background: #FFFFCC;
+}
+
+.kuning-1{ 
+  Width:1200px;
+  Height:70px;
+  Background: #CC9933;
+}
+
+body{
+background: url(korden.jpg);
+}
+
+.putih{ 
+  Width:1170px;
+  Height:1276px;
+  Background: #FFFFCC;
+}
+
+.coming{ 
+  Width:1170px;
+  Height:1630px;
+  padding-top:5px;
+  padding-left:5px;
+  Background: #FFFFCC;
+}
+
+.putih2{ 
+  Width:1170px;
+  Height:650px;
+  padding-top:30px;
+  padding-left:25px;
+  Background: #FFFFCC;
+}
+
+.putih4{ 
+  Width:700px;
+  Height:190px;
+  padding-top:7px;
+  padding-left:110px;
+  Background: #FFFFCC;
+}
+
+.putih5{ 
+  Width:1140px;
+  Height:440px;
+  padding-top:7px;
+  padding-left:100px;
+  Background: #FFFFCC;
+}
+
+.tiket{ 
+  Width:1070px;
+  Height:300px;
+  padding-top:30px;
+  padding-left:100px;
+  Background: #FFFFCC;
+}
+
+.laporan{ 
+  Width:1200px;
+  Height:1300px;
+  margin:0 0 0 0;
+  padding-top:10px;
+  padding-left:0px;
+  Background: #FFFFCC;
+}
+
+.laporan1{ 
+  Width:1200px;
+  Height:900px;
+  margin:0 0 0 0;
+  padding-top:10px;
+  padding-left:0px;
+  Background: #FFFFCC;
+}
+
+.edit{ 
+  Width:1190px;
+  Height:550px;
+  margin:0 0 0 0;
+  padding-top:50px;
+  padding-left:50px;
+  Background: #FFFFCC;
+}
+
+.teks{ 
+  Width:1170px;
+  Height:50px;
+  margin:0 0 10px 0;
+}
+
+.log{ 
+  Width:1140px;
+  Height:1000px;
+  Background: #FFFFCC;
+}
